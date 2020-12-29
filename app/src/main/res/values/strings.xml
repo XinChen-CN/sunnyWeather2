@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sunnyWeather2</string>
+    <string name="enter_address">输入地址</string>
+    <string name="forecast">预报</string>
+    <string name="Weather_icon">天气的图标</string>
+    <string name="date_info">日期信息</string>
+    <string name="temperature_Info">最低、最高温度</string>
+    <string name="sky_Info">天气情况</string>
+    <string name="live_index">生活指数</string>
+    <string name="cold">感冒</string>
+    <string name="get_dressed">穿衣</string>
+    <string name="realtime_ultraviolet">实时紫外线</string>
+    <string name="car_Washing">洗车</string>
+</resources>
